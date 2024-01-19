@@ -1,0 +1,6 @@
+train: YOLO_Data\train.txt
+val: YOLO_Data\val.txt
+
+names: 
+- Fovea
+nc: 1
